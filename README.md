@@ -5,7 +5,6 @@ Projeto final do **Bootcamp Pottencial .NET Developer** realizado na plataforma 
 > 🏁 *Projeto Concluído*  
 
 ## Payment API
-------------------
 
 O Projeto consiste em uma Web API construída com ASP.NET Core 6 que realiza as seguintes operações:
 - Registrar uma venda
