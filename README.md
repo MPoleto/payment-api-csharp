@@ -75,7 +75,7 @@ Para fazer um comparativo adicionei as imagens do antes e depois:
 
 - Imagem com a interface da API customizada e com mais informações:
 
-![Swagger UI customizado](./Payment/Images/afterCustom.png)
+![Swagger UI customizado](./Payment/Images/afterCustom.png#vitrinedev)
 
 
 
